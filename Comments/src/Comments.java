@@ -3,7 +3,7 @@ public class Comments {
         System.out.println("Hello, World!"); // this is a line
         /*
          * this is a multi line
-         * in line 3 print Hello, World! in a screen
+         * in line 3 print Hello, World! in a screen.
          */
     }
 }
